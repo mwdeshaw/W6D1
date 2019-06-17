@@ -1,4 +1,7 @@
 /* PHASE 7: Online */
+.profile-picture {
+  overflow: hidden;
+}
 
 .online {
   display: block;
